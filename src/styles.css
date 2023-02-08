@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  background-color: rgb(237, 195, 139);
+}
+h1 {
+  font-size: 3vw;
+}
+p {
+  font-size: 1.5vw;
+}
+a {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.5vw;
+  display: inline;
+  justify-content: center;
+  color: green;
+}
+img {
+  border-radius: 15px;
+}
